@@ -1,1 +1,1 @@
-A simple and lightweight Chrome extension that shows a “Hello World” message in a popup when you click the icon. Perfect for beginners to understand the basics of Chrome extension development, including manifest, popup, and UI setup.
+A lightweight and interactive Chrome extension that displays a personalized greeting as you type your name. This extension is built using pure HTML, CSS, and JavaScript—no frameworks, just clean and efficient code. Great for beginners learning DOM manipulation and extension development!
