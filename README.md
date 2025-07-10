@@ -1,0 +1,1 @@
+A simple and lightweight Chrome extension that shows a “Hello World” message in a popup when you click the icon. Perfect for beginners to understand the basics of Chrome extension development, including manifest, popup, and UI setup.
